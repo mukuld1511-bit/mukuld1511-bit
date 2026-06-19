@@ -26,35 +26,51 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 - 🎓 B.Tech CSE (AI/ML) student at **PIET** (Panipat Institute of Engineering & Technology)
 - 🚀 Leading an **AR/VR Studio Lab** — building Unity-based AR/VR projects with a 6-member team
 - 🔧 I like building end-to-end — software, hardware, and physical fabrication
 - 🌱 Currently exploring AI-integrated AR/VR experiences and immersive learning tools
+- ⚡ Fun fact: I'd rather laser-cut acrylic signage at 1 AM than sleep
+
+</td>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🔬 **[ARLearningSuite](https://github.com/mukuld1511-bit/ARLearningSuite)** | Modular Unity-based AR platform that transforms traditional learning into immersive, interactive experiences |
-| 🌐 **[Synthé / Website](https://synthe-nu.vercel.app)** | AR/VR creator platform — build, share & monetize XR experiences, browse 3D models, book mentors, generate AI-powered learning paths |
-| ❤️ **[Heart](https://github.com/mukuld1511-bit/Heart)** | AR anatomical heart model + voice-driven AI avatar that answers spoken questions about the heart |
-| 💼 **[Portfolio](https://github.com/mukuld1511-bit/Portfolio)** | Personal portfolio site — resume & project showcase |
-| 🔐 **[LabGuartTech](https://github.com/mukuld1511-bit/LabGuartTech)** + **[LabGuard](https://github.com/mukuld1511-bit/LabGuard)** | Facial-recognition based Lab Entry system — frontend + backend engine |
+<div align="center">
+
+<a href="https://github.com/mukuld1511-bit/ARLearningSuite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukuld1511-bit&repo=ARLearningSuite&theme=tokyonight&hide_border=true" width="46%"/></a>
+<a href="https://github.com/mukuld1511-bit/Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukuld1511-bit&repo=Website&theme=tokyonight&hide_border=true" width="46%"/></a>
+<a href="https://github.com/mukuld1511-bit/Heart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukuld1511-bit&repo=Heart&theme=tokyonight&hide_border=true" width="46%"/></a>
+<a href="https://github.com/mukuld1511-bit/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukuld1511-bit&repo=Portfolio&theme=tokyonight&hide_border=true" width="46%"/></a>
+<a href="https://github.com/mukuld1511-bit/LabGuartTech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukuld1511-bit&repo=LabGuartTech&theme=tokyonight&hide_border=true" width="46%"/></a>
+<a href="https://github.com/mukuld1511-bit/LabGuard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukuld1511-bit&repo=LabGuard&theme=tokyonight&hide_border=true" width="46%"/></a>
+
+</div>
+
+> 🌐 **Synthé** (the platform powering `Website`) is live at **[synthe-nu.vercel.app](https://synthe-nu.vercel.app)** — build, share & monetize AR/VR experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,cs,ts,js,nextjs,tailwind,python,html,nodejs,git&theme=dark" />
+
+</div>
 
 ---
 
@@ -67,6 +83,22 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukuld1511-bit&theme=tokyonight&hide_border=true" width="60%" />
+</div>
+
+<div align="center">
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=mukuld1511-bit&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/mukuld1511-bit/mukuld1511-bit/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
 ---
