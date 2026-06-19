@@ -1,8 +1,9 @@
+cat > /mnt/user-data/outputs/PROFILE-README.md << 'EOF'
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA8F0&height=220&section=header&text=Mukul%20Dhankhar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AR%2FVR%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:2C5364,80:2EA8F0,100:7F00FF&height=240&section=header&text=Mukul%20Dhankhar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AR%2FVR%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA8F0&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI%2FML)+Student;AR%2FVR+Developer+%7C+Unity+%26+XR;Leading+the+AR%2FVR+Studio+Lab+%40+PIET" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA8F0&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI%2FML)+Student+%40+PIET;Leading+the+AR%2FVR+Studio+Lab;Building+Unity-based+AR%2FVR+Experiences;Software+%2B+Hardware+%2B+Fabrication" alt="Typing SVG" />
 
 <br/>
 
@@ -19,16 +20,17 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mukuld1511-bit&style=for-the-badge&color=2EA8F0&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/mukuld1511-bit?style=for-the-badge&color=7F00FF&label=FOLLOWERS&logo=github" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🧠 About Me
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%">
 
 - 🎓 B.Tech CSE (AI/ML) student at **PIET** (Panipat Institute of Engineering & Technology)
 - 🚀 Leading an **AR/VR Studio Lab** — building Unity-based AR/VR projects with a 6-member team
@@ -36,8 +38,12 @@
 - 🌱 Currently exploring AI-integrated AR/VR experiences and immersive learning tools
 - ⚡ Fun fact: I'd rather laser-cut acrylic signage at 1 AM than sleep
 
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+
 </td>
-<td width="40%">
+<td width="42%">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
@@ -45,7 +51,7 @@
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🌟 Featured Projects
 
@@ -62,22 +68,22 @@
 
 > 🌐 **Synthé** (the platform powering `Website`) is live at **[synthe-nu.vercel.app](https://synthe-nu.vercel.app)** — build, share & monetize AR/VR experiences.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,ts,js,nextjs,tailwind,python,html,nodejs,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=unity,cs,ts,js,nextjs,tailwind,python,html,nodejs,git,blender,tensorflow&theme=dark&perline=6" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mukuld1511-bit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mukuld1511-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuld1511-bit&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </div>
 
@@ -86,22 +92,37 @@
 </div>
 
 <div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mukuld1511-bit&theme=tokyonight&no-frame=true&row=1&column=6" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukuld1511-bit&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 </div>
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/mukuld1511-bit/mukuld1511-bit/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://vn7n24fzkq.vercel.app/api/cards/stats?username=mukuld1511-bit&theme=tokyonight" width="44%" />
+<img src="https://vn7n24fzkq.vercel.app/api/cards/productive-time?username=mukuld1511-bit&theme=tokyonight&utcOffset=5.5" width="44%" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mukuld1511-bit&theme=tokyonight&no-frame=true&row=2&column=4" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mukuld1511-bit/mukuld1511-bit/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+## 🎆 3D Contribution Calendar
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mukuld1511-bit/mukuld1511-bit/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <div align="center">
 
@@ -116,6 +137,15 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA8F0,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="120"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2EA8F0,100:0F2027&height=140&section=footer" width="100%"/>
 
 </div>
+EOF
+echo "written"
+Output
+
+written
