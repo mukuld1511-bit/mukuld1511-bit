@@ -1,10 +1,28 @@
 <div align="center">
 
-# Hi 👋, I'm Mukul
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA8F0&height=220&section=header&text=Mukul%20Dhankhar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AR%2FVR%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA8F0&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI%2FML)+Student;AR%2FVR+Developer+%7C+Unity+%26+XR;Leading+the+AR%2FVR+Studio+Lab+%40+PIET" alt="Typing SVG" />
 
+<br/>
+
+<a href="mailto:mukuld1511@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mukul-dhankhar-6a2403324/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/mukuld1511-bit" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mukuld1511-bit&style=for-the-badge&color=2EA8F0&label=PROFILE+VIEWS" />
+
 </div>
+
+<br/>
 
 ## 🧠 About Me
 
@@ -43,14 +61,29 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mukuld1511-bit&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuld1511-bit&layout=compact&theme=tokyonight" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mukuld1511-bit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuld1511-bit&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukuld1511-bit&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 ---
 
 <div align="center">
 
-📫 Reach me — *add your email / LinkedIn / X link here*
+### 📫 Let's Connect
+
+<a href="mailto:mukuld1511@gmail.com">
+<img src="https://img.shields.io/badge/-mukuld1511@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mukul-dhankhar-6a2403324/" target="_blank">
+<img src="https://img.shields.io/badge/-Mukul%20Dhankhar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA8F0,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
