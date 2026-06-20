@@ -37,10 +37,6 @@
 - 🌱 Currently exploring AI-integrated AR/VR experiences and immersive learning tools
 - ⚡ Fun fact: I'd rather laser-cut acrylic signage at 1 AM than sleep
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
-
 </td>
 <td width="42%">
 
@@ -87,18 +83,11 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukuld1511-bit&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=mukuld1511-bit&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukuld1511-bit&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-</div>
-
-<div align="center">
-
-<img src="https://vn7n24fzkq.vercel.app/api/cards/stats?username=mukuld1511-bit&theme=tokyonight" width="44%" />
-<img src="https://vn7n24fzkq.vercel.app/api/cards/productive-time?username=mukuld1511-bit&theme=tokyonight&utcOffset=5.5" width="44%" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
@@ -133,10 +122,6 @@
 <a href="https://www.linkedin.com/in/mukul-dhankhar-6a2403324/" target="_blank">
 <img src="https://img.shields.io/badge/-Mukul%20Dhankhar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="120"/>
 
 <br/>
 
