@@ -40,11 +40,21 @@
 </td>
 <td width="42%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2EA8F0&center=true&vCenter=true&multiline=true&width=400&height=200&lines=while(curious)+%7B;++train();;++build();;++ship();+%7D" width="100%"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,unity,cs,nextjs&theme=dark&perline=6" width="55%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&multiline=true&width=400&height=200&lines=while(curious)+%7B;++train();;++build();;++ship();+%7D" width="60%"/>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
