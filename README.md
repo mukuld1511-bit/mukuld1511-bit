@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/PROFILE-README.md << 'EOF'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:2C5364,80:2EA8F0,100:7F00FF&height=240&section=header&text=Mukul%20Dhankhar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AR%2FVR%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
@@ -144,8 +143,3 @@ cat > /mnt/user-data/outputs/PROFILE-README.md << 'EOF'
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2EA8F0,100:0F2027&height=140&section=footer" width="100%"/>
 
 </div>
-EOF
-echo "written"
-Output
-
-written
