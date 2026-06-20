@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:2C5364,80:2EA8F0,100:7F00FF&height=240&section=header&text=Mukul%20Dhankhar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,15:0F0F3D,35:7000FF,55:D400FF,75:FF00C8,100:00F0FF&height=240&section=header&text=Mukul%20Dhankhar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA8F0&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI%2FML)+Student+%40+PIET;Applying+AI+to+Computer+Vision+%26+AR%2FVR;TensorFlow+%C2%B7+Python+%C2%B7+Unity+%C2%B7+Next.js;Building+Systems+That+Actually+Ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF00C8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI%2FML)+Student+%40+PIET;Applying+AI+to+Computer+Vision+%26+AR%2FVR;TensorFlow+%C2%B7+Python+%C2%B7+Unity+%C2%B7+Next.js;Building+Systems+That+Actually+Ship" alt="Typing SVG" />
 
 <br/>
 
@@ -18,8 +18,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mukuld1511-bit&style=for-the-badge&color=2EA8F0&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/mukuld1511-bit?style=for-the-badge&color=7F00FF&label=FOLLOWERS&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=mukuld1511-bit&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/mukuld1511-bit?style=for-the-badge&color=FF00C8&label=FOLLOWERS&logo=github" />
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&multiline=true&width=400&height=200&lines=while(curious)+%7B;++train();;++build();;++ship();+%7D" width="60%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=400&height=200&lines=while(curious)+%7B;++train();;++build();;++ship();+%7D" width="60%"/>
 
 </div>
 
@@ -126,6 +126,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2EA8F0,100:0F2027&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:D400FF,100:0D0221&height=140&section=footer" width="100%"/>
 
 </div>
