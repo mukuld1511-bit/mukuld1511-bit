@@ -40,7 +40,7 @@
 </td>
 <td width="42%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2EA8F0&center=true&vCenter=true&multiline=true&width=400&height=200&lines=while(alive)+%7B;++learn();;++build();;++ship();+%7D" width="100%"/>
 
 </td>
 </tr>
@@ -98,18 +98,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=mukuld1511-bit&theme=tokyonight&no-frame=true&row=2&column=4" />
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mukuld1511-bit/mukuld1511-bit/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-## 🎆 3D Contribution Calendar
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mukuld1511-bit/mukuld1511-bit/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <div align="center">
@@ -128,4 +116,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2EA8F0,100:0F2027&height=140&section=footer" width="100%"/>
 
 </div>
-
