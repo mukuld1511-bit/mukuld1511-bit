@@ -68,9 +68,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=unity,cs,ts,js,nextjs,tailwind,python,html,nodejs,git,blender,tensorflow&theme=dark&perline=6" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
@@ -88,6 +86,24 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukuld1511-bit&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 🧊 3D Contribution Calendar + Language Mix
+
+> ⚙️ Renders after the **`metrics.yml`** workflow (below) runs once.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mukuld1511-bit/mukuld1511-bit/main/github-metrics.svg" width="100%" />
+</div>
+
+## 🐍 Contribution Snake
+
+> ⚙️ Renders after the **`profile-animations.yml`** workflow (below) runs once.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mukuld1511-bit/mukuld1511-bit/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
@@ -111,7 +127,7 @@
 <img src="https://img.shields.io/badge/-Mukul%20Dhankhar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2EA8F0,100:0F2027&height=140&section=footer" width="100%"/>
 
