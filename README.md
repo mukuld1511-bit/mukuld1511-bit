@@ -30,6 +30,10 @@
 
 ## 🧠 About Me
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120"/>
+</div>
+
 <table>
 <tr>
 <td width="58%">
@@ -44,7 +48,7 @@
 </td>
 <td width="42%">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%"/>
 
 </td>
 </tr>
@@ -87,6 +91,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="900"/>
+</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,cs,unity,ts,nextjs,js,nodejs,tailwind,git,blender,docker,mongodb,react&theme=dark&perline=6" />
