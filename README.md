@@ -83,6 +83,7 @@
 | 🌐 **Synthé** | AR/VR creator platform (Next.js, TypeScript) — live at **[synthe-nu.vercel.app](https://synthe-nu.vercel.app)** |
 | ✋ **AirPaint** | Real-time hand-gesture drawing app (Computer Vision) — live at **[hand-gesture-cv-3xvb.vercel.app](https://hand-gesture-cv-3xvb.vercel.app)** |
 | 🚀 **DeployBuddy** | Student-focused deployment platform that auto-deploys GitHub projects to free-tier cloud, with plain-English step explanations |
+| 📦 **Payment Logging Service** | Spring Boot payment logging app, containerized with Docker Compose — MongoDB + Prometheus + Grafana on a custom bridge network, pushed to DockerHub |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
@@ -90,6 +91,12 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,cs,unity,ts,nextjs,js,nodejs,tailwind,git,blender,docker,mongodb,react&theme=dark&perline=6" />
+</div>
+
+**DevOps & Infra**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus,nginx,linux,githubactions,aws&theme=dark&perline=8" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
